@@ -6,8 +6,8 @@
     <td><center><strong>SVD + VCUT</strong></center></td>
   </tr>
   <tr>
-    <td><img src="gifs/sample1_svd.gif" width="512"/></td>
-    <td><img src="gifs/sample1_vcut.gif" width="512"/></td>
+    <td><img src="gifs/sample1_svd.gif" width="400"/></td>
+    <td><img src="gifs/sample1_vcut.gif" width="400"/></td>
   </tr>
 </table>
 
@@ -21,12 +21,12 @@
     <td><center><strong>SVD + VCUT</strong></center></td>
   </tr>
   <tr>
-    <td><img src="gifs/sample2_svd.gif" width="512"/></td>
-    <td><img src="gifs/sample2_vcut.gif" width="512"/></td>
+    <td><img src="gifs/sample2_svd.gif" width="400"/></td>
+    <td><img src="gifs/sample2_vcut.gif" width="400"/></td>
   </tr>
 </table>
 
-**In this sample, the butterfly is deformed while trying to flap its wings in SVD, but with VCUT integration, the deformation is resolved**
+**In this sample, the butterfly is deformed while trying to flap its wings in SVD, but with VCUT integration, the deformation is resolved.**
 
 ---
 
@@ -36,12 +36,12 @@
     <td><center><strong>SVD + VCUT</strong></center></td>
   </tr>
   <tr>
-    <td><img src="gifs/sample3_svd.gif" width="512"/></td>
-    <td><img src="gifs/sample3_vcut.gif" width="512"/></td>
+    <td><img src="gifs/sample3_svd.gif" width="400"/></td>
+    <td><img src="gifs/sample3_vcut.gif" width="400"/></td>
   </tr>
 </table>
 
-**In this sample, the steak and the metal tool attempting to grab it appear deformed and unrealistic in SVD. With VCUT integration, both retain their shape and look more realistic**
+**In this sample, the steak and the metal tool attempting to grab it appear deformed and unrealistic in SVD. With VCUT integration, both retain their shape and look more realistic.**
 
 ---
 
@@ -51,12 +51,12 @@
     <td><center><strong>SVD + VCUT</strong></center></td>
   </tr>
   <tr>
-    <td><img src="gifs/sample4_svd.gif" width="512"/></td>
-    <td><img src="gifs/sample4_vcut.gif" width="512"/></td>
+    <td><img src="gifs/sample4_svd.gif" width="400"/></td>
+    <td><img src="gifs/sample4_vcut.gif" width="400"/></td>
   </tr>
 </table>
 
-**In this sample, the car's motion appears unrealistic in SVD, but with VCUT integration, it is replaced by a more natural and realistic camera movement**
+**In this sample, the car's motion appears unrealistic in SVD, but with VCUT integration, it is replaced by a more natural and realistic camera movement.**
 
 ---
 
@@ -66,8 +66,8 @@
     <td><center><strong>SVD + VCUT</strong></center></td>
   </tr>
   <tr>
-    <td><img src="gifs/sample5_svd.gif" width="512"/></td>
-    <td><img src="gifs/sample5_vcut.gif" width="512"/></td>
+    <td><img src="gifs/sample5_svd.gif" width="400"/></td>
+    <td><img src="gifs/sample5_vcut.gif" width="400"/></td>
   </tr>
 </table>
 
@@ -81,8 +81,8 @@
     <td><center><strong>SVD + VCUT</strong></center></td>
   </tr>
   <tr>
-    <td><img src="gifs/sample6_svd.gif" width="512"/></td>
-    <td><img src="gifs/sample6_vcut.gif" width="512"/></td>
+    <td><img src="gifs/sample6_svd.gif" width="400"/></td>
+    <td><img src="gifs/sample6_vcut.gif" width="400"/></td>
   </tr>
 </table>
 
@@ -96,8 +96,8 @@
     <td><center><strong>SVD + VCUT</strong></center></td>
   </tr>
   <tr>
-    <td><img src="gifs/sample7_svd.gif" width="512"/></td>
-    <td><img src="gifs/sample7_vcut.gif" width="512"/></td>
+    <td><img src="gifs/sample7_svd.gif" width="400"/></td>
+    <td><img src="gifs/sample7_vcut.gif" width="400"/></td>
   </tr>
 </table>
 
