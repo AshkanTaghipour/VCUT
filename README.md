@@ -2,6 +2,10 @@
 
 <table>
   <tr>
+    <th><strong>SVD</strong></th>
+    <th><strongSVD + VCUT</strong></th>
+  </tr>
+  <tr>
     <td><img src="gifs/sample1_svd.gif" width="300"/></td>
     <td><img src="gifs/sample1_vcut.gif" width="300"/></td>
   </tr>
@@ -12,6 +16,10 @@
 ---
 
 <table>
+  <tr>
+    <th><strong>SVD</strong></th>
+    <th><strong>SVD + VCUT</strong></th>
+  </tr>
   <tr>
     <td><img src="gifs/sample2_svd.gif" width="300"/></td>
     <td><img src="gifs/sample2_vcut.gif" width="300"/></td>
@@ -24,6 +32,10 @@
 
 <table>
   <tr>
+    <th><strong>SVD</strong></th>
+    <th><strong>SVD + VCUT</strong></th>
+  </tr>
+  <tr>
     <td><img src="gifs/sample3_svd.gif" width="300"/></td>
     <td><img src="gifs/sample3_vcut.gif" width="300"/></td>
   </tr>
@@ -34,6 +46,10 @@
 ---
 
 <table>
+  <tr>
+    <th><strong>SVD</strong></th>
+    <th><strong>SVD + VCUT</strong></th>
+  </tr>
   <tr>
     <td><img src="gifs/sample4_svd.gif" width="300"/></td>
     <td><img src="gifs/sample4_vcut.gif" width="300"/></td>
@@ -46,6 +62,10 @@
 
 <table>
   <tr>
+    <th><strong>SVD</strong></th>
+    <th><strong>SVD + VCUT</strong></th>
+  </tr>
+  <tr>
     <td><img src="gifs/sample5_svd.gif" width="300"/></td>
     <td><img src="gifs/sample5_vcut.gif" width="300"/></td>
   </tr>
@@ -57,9 +77,28 @@
 
 <table>
   <tr>
+    <th><strong>SVD</strong></th>
+    <th><strong>SVD + VCUT</strong></th>
+  </tr>
+  <tr>
     <td><img src="gifs/sample6_svd.gif" width="300"/></td>
     <td><img src="gifs/sample6_vcut.gif" width="300"/></td>
   </tr>
 </table>
 
 **Dog motion becomes blurry in SVD, but VCUT keeps it consistent.**
+
+---
+
+<table>
+  <tr>
+    <th><strong>SVD</strong></th>
+    <th><strong>SVD + VCUT</strong></th>
+  </tr>
+  <tr>
+    <td><img src="gifs/sample7_svd.gif" width="300"/></td>
+    <td><img src="gifs/sample7_vcut.gif" width="300"/></td>
+  </tr>
+</table>
+
+**In this sample, the subject loses shape in SVD output, whereas VCUT ensures temporal and spatial stability.**
